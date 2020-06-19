@@ -2,4 +2,5 @@
 https://ilya-buyak.github.io/FirstWork/
 <h2>Реализовано:</h2>
 <p>Верстка сайта по макету</p>
-<p>В работе используется : HTML,CSS(flexbox, grid), BEM</p>
+<h2>В работе используется:</h2>
+<p>HTML,CSS(flexbox, grid), BEM</p>
